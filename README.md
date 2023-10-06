@@ -10,7 +10,7 @@ This project aims to enhance people’s cooking and dietary choices by recommend
 ### Backend
 * Node.js
 * Express
-* MongoDB
+* Postgres
 
 ### Applications
 * Node.js
